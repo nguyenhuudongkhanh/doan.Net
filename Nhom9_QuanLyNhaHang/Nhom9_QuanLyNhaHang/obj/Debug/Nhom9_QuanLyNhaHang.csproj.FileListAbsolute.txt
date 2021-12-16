@@ -1,0 +1,281 @@
+E:\ThuMucLuuwinform\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\Nhom9_QuanLyNhaHang.exe.config
+E:\ThuMucLuuwinform\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\Nhom9_QuanLyNhaHang.exe
+E:\ThuMucLuuwinform\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\Nhom9_QuanLyNhaHang.pdb
+E:\ThuMucLuuwinform\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.csprojResolveAssemblyReference.cache
+E:\ThuMucLuuwinform\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.NhanVien.resources
+E:\ThuMucLuuwinform\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.Properties.Resources.resources
+E:\ThuMucLuuwinform\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.csproj.GenerateResource.Cache
+E:\ThuMucLuuwinform\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.exe
+E:\ThuMucLuuwinform\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.pdb
+E:\ThuMucLuuwinform\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.KhachHang.resources
+E:\ThuMucLuuwinform\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.ChucVu.resources
+E:\ThuMucLuuwinform\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.LoaiBanAn.resources
+E:\ThuMucLuuwinform\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.BanAn.resources
+E:\ThuMucLuuwinform\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.LoaiMonAn.resources
+E:\ThuMucLuuwinform\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.MonAn.resources
+E:\ThuMucLuuwinform\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.GiamGia.resources
+E:\ThuMucLuuwinform\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.HoaDon.resources
+E:\ThuMucLuuwinform\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.ChiTietHoaDon.resources
+E:\ThuMucLuuwinform\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.HINHTHUCTHANHTOAN.resources
+E:\ThuMucLuuwinform\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.ThanhToan.resources
+E:\ThuMucLuuwinform\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.DangNhapHeThong.resources
+E:\ThuMucLuuwinform\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\EntityFramework.dll
+E:\ThuMucLuuwinform\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\EntityFramework.SqlServer.dll
+E:\ThuMucLuuwinform\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\EntityFramework.xml
+E:\ThuMucLuuwinform\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\EntityFramework.SqlServer.xml
+E:\ThuMucLuuwinform\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.FormDangNhap.resources
+E:\ThuMucLuuwinform\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.TrangChu.resources
+E:\ThuMucLuuwinform\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.DoiMatKhau.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\QL_NhaHang\khanh\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\Nhom9_QuanLyNhaHang.exe.config
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\QL_NhaHang\khanh\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.exe
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\QL_NhaHang\khanh\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.pdb
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\QL_NhaHang\khanh\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\Nhom9_QuanLyNhaHang.exe
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\QL_NhaHang\khanh\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\Nhom9_QuanLyNhaHang.pdb
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\QL_NhaHang\khanh\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\EntityFramework.dll
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\QL_NhaHang\khanh\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\QL_NhaHang\khanh\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\EntityFramework.xml
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\QL_NhaHang\khanh\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\QL_NhaHang\khanh\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.csprojResolveAssemblyReference.cache
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\QL_NhaHang\khanh\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.BanAn.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\QL_NhaHang\khanh\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.ChiTietHoaDon.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\QL_NhaHang\khanh\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.ChucVu.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\QL_NhaHang\khanh\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.DangNhapHeThong.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\QL_NhaHang\khanh\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.DoiMatKhau.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\QL_NhaHang\khanh\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.FormDangNhap.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\QL_NhaHang\khanh\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.HoaDon.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\QL_NhaHang\khanh\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.KhachHang.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\QL_NhaHang\khanh\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.LoaiBanAn.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\QL_NhaHang\khanh\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.LoaiMonAn.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\QL_NhaHang\khanh\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.MonAn.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\QL_NhaHang\khanh\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.NhanVien.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\QL_NhaHang\khanh\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.Properties.Resources.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\QL_NhaHang\khanh\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.ThanhToan.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\QL_NhaHang\khanh\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.TrangChu.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\QL_NhaHang\khanh\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.csproj.GenerateResource.Cache
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\QL_NhaHang\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\Nhom9_QuanLyNhaHang.exe.config
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\QL_NhaHang\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.exe
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\QL_NhaHang\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.pdb
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\QL_NhaHang\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\Nhom9_QuanLyNhaHang.exe
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\QL_NhaHang\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\Nhom9_QuanLyNhaHang.pdb
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\QL_NhaHang\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\EntityFramework.dll
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\QL_NhaHang\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\QL_NhaHang\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\EntityFramework.xml
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\QL_NhaHang\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\QL_NhaHang\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.csprojResolveAssemblyReference.cache
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\QL_NhaHang\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.BanAn.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\QL_NhaHang\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.BaoCao.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\QL_NhaHang\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.ChiTietHoaDon.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\QL_NhaHang\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.ChucVu.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\QL_NhaHang\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.DangNhapHeThong.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\QL_NhaHang\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.DoiMatKhau.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\QL_NhaHang\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.FormDangNhap.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\QL_NhaHang\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.HoaDon.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\QL_NhaHang\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.KhachHang.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\QL_NhaHang\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.LoaiBanAn.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\QL_NhaHang\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.LoaiMonAn.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\QL_NhaHang\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.MonAn.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\QL_NhaHang\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.NhanVien.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\QL_NhaHang\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.Properties.Resources.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\QL_NhaHang\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.ThanhToan.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\QL_NhaHang\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.TrangChu.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\QL_NhaHang\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.csproj.GenerateResource.Cache
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\QL_NhaHang\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.HINHTHUCTHANHTOAN.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\demo\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\Nhom9_QuanLyNhaHang.exe.config
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\demo\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.exe
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\demo\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.pdb
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\demo\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\Nhom9_QuanLyNhaHang.exe
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\demo\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\Nhom9_QuanLyNhaHang.pdb
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\demo\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\EntityFramework.dll
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\demo\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\demo\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\EntityFramework.xml
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\demo\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\demo\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.csprojResolveAssemblyReference.cache
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\demo\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.BanAn.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\demo\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.BaoCao.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\demo\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.ChiTietHoaDon.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\demo\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.ChucVu.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\demo\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.DangNhapHeThong.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\demo\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.DoiMatKhau.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\demo\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.FormDangNhap.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\demo\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.HINHTHUCTHANHTOAN.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\demo\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.HoaDon.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\demo\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.KhachHang.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\demo\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.LoaiBanAn.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\demo\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.LoaiMonAn.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\demo\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.MonAn.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\demo\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.NhanVien.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\demo\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.Properties.Resources.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\demo\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.ThanhToan.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\demo\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.TrangChu.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\demo\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.csproj.GenerateResource.Cache
+C:\Users\DongKhanh\Desktop\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\Nhom9_QuanLyNhaHang.exe.config
+C:\Users\DongKhanh\Desktop\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.exe
+C:\Users\DongKhanh\Desktop\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.pdb
+C:\Users\DongKhanh\Desktop\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.csprojResolveAssemblyReference.cache
+C:\Users\DongKhanh\Desktop\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.ChiTietHoaDon.resources
+C:\Users\DongKhanh\Desktop\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.ChucVu.resources
+C:\Users\DongKhanh\Desktop\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.DangNhapHeThong.resources
+C:\Users\DongKhanh\Desktop\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.DoiMatKhau.resources
+C:\Users\DongKhanh\Desktop\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.FormBaoCaoNhanVien.resources
+C:\Users\DongKhanh\Desktop\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.FormDangNhap.resources
+C:\Users\DongKhanh\Desktop\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.HINHTHUCTHANHTOAN.resources
+C:\Users\DongKhanh\Desktop\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.HoaDon.resources
+C:\Users\DongKhanh\Desktop\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.KhachHang.resources
+C:\Users\DongKhanh\Desktop\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.LoaiBanAn.resources
+C:\Users\DongKhanh\Desktop\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.LoaiMonAn.resources
+C:\Users\DongKhanh\Desktop\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.MonAn.resources
+C:\Users\DongKhanh\Desktop\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.NhanVien.resources
+C:\Users\DongKhanh\Desktop\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.Properties.Resources.resources
+C:\Users\DongKhanh\Desktop\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.ThanhToan.resources
+C:\Users\DongKhanh\Desktop\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.TrangChu.resources
+C:\Users\DongKhanh\Desktop\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.csproj.GenerateResource.Cache
+C:\Users\DongKhanh\Desktop\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\Nhom9_QuanLyNhaHang.exe
+C:\Users\DongKhanh\Desktop\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\Nhom9_QuanLyNhaHang.pdb
+C:\Users\DongKhanh\Desktop\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\DongKhanh\Desktop\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\DongKhanh\Desktop\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\DongKhanh\Desktop\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\DongKhanh\Desktop\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\EntityFramework.dll
+C:\Users\DongKhanh\Desktop\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DongKhanh\Desktop\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\FlashControlV71.dll
+C:\Users\DongKhanh\Desktop\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\DongKhanh\Desktop\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\DongKhanh\Desktop\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\DongKhanh\Desktop\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\DongKhanh\Desktop\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\DongKhanh\Desktop\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\DongKhanh\Desktop\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\DongKhanh\Desktop\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\DongKhanh\Desktop\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\DongKhanh\Desktop\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\DongKhanh\Desktop\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\DongKhanh\Desktop\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\DongKhanh\Desktop\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\DongKhanh\Desktop\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\stdole.dll
+C:\Users\DongKhanh\Desktop\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\EntityFramework.xml
+C:\Users\DongKhanh\Desktop\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DongKhanh\Desktop\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.FormBaoCaoHoaDon.resources
+C:\Users\DongKhanh\Desktop\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.formbaocaotheodoanhthu.resources
+C:\Users\DongKhanh\Desktop\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.FormBaoCaoTheoHTTT.resources
+C:\Users\DongKhanh\Desktop\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.formchonhttt.resources
+C:\Users\DongKhanh\Desktop\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.BaoCaoMonAn.resources
+C:\Users\DongKhanh\Desktop\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.BanAn.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\demo\cuoi\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\Nhom9_QuanLyNhaHang.exe.config
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\demo\cuoi\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.exe
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\demo\cuoi\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.pdb
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\demo\cuoi\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\Nhom9_QuanLyNhaHang.exe
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\demo\cuoi\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\Nhom9_QuanLyNhaHang.pdb
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\demo\cuoi\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\EntityFramework.dll
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\demo\cuoi\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\demo\cuoi\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\EntityFramework.xml
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\demo\cuoi\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\demo\cuoi\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.csprojResolveAssemblyReference.cache
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\demo\cuoi\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.BanAn.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\demo\cuoi\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.BaoCaoMonAn.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\demo\cuoi\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.ChiTietHoaDon.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\demo\cuoi\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.ChucVu.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\demo\cuoi\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.DangNhapHeThong.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\demo\cuoi\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.DoiMatKhau.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\demo\cuoi\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.FormBaoCaoHoaDon.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\demo\cuoi\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.FormBaoCaoNhanVien.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\demo\cuoi\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.formbaocaotheodoanhthu.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\demo\cuoi\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.FormBaoCaoTheoHTTT.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\demo\cuoi\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.formchonhttt.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\demo\cuoi\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.FormDangNhap.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\demo\cuoi\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.HINHTHUCTHANHTOAN.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\demo\cuoi\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.HoaDon.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\demo\cuoi\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.KhachHang.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\demo\cuoi\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.LoaiBanAn.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\demo\cuoi\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.LoaiMonAn.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\demo\cuoi\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.MonAn.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\demo\cuoi\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.NhanVien.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\demo\cuoi\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.Properties.Resources.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\demo\cuoi\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.ThanhToan.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\demo\cuoi\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.TrangChu.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\demo\cuoi\huy\huy\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.csproj.GenerateResource.Cache
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\Nhom9_QuanLyNhaHang.exe.config
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.exe
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.pdb
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\Nhom9_QuanLyNhaHang.exe
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\Nhom9_QuanLyNhaHang.pdb
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\EntityFramework.dll
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\EntityFramework.xml
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.csprojResolveAssemblyReference.cache
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.BanAn.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.BaoCaoMonAn.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.ChiTietHoaDon.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.ChucVu.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.DangNhapHeThong.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.DoiMatKhau.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.FormBaoCaoHoaDon.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.FormBaoCaoNhanVien.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.formbaocaotheodoanhthu.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.FormBaoCaoTheoHTTT.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.formchonhttt.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.FormDangNhap.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.HINHTHUCTHANHTOAN.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.HoaDon.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.KhachHang.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.LoaiBanAn.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.LoaiMonAn.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.MonAn.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.NhanVien.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.Properties.Resources.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.ThanhToan.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.TrangChu.resources
+C:\Users\Le Xuan Huy\OneDrive\Máy tính\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.csproj.GenerateResource.Cache
+C:\Users\ADMIN\Desktop\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\Nhom9_QuanLyNhaHang.exe.config
+C:\Users\ADMIN\Desktop\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\Nhom9_QuanLyNhaHang.exe
+C:\Users\ADMIN\Desktop\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\Nhom9_QuanLyNhaHang.pdb
+C:\Users\ADMIN\Desktop\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\EntityFramework.dll
+C:\Users\ADMIN\Desktop\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\Desktop\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ADMIN\Desktop\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ADMIN\Desktop\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ADMIN\Desktop\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ADMIN\Desktop\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ADMIN\Desktop\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ADMIN\Desktop\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ADMIN\Desktop\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ADMIN\Desktop\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ADMIN\Desktop\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ADMIN\Desktop\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ADMIN\Desktop\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\ADMIN\Desktop\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ADMIN\Desktop\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\stdole.dll
+C:\Users\ADMIN\Desktop\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\EntityFramework.xml
+C:\Users\ADMIN\Desktop\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\Desktop\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.BanAn.resources
+C:\Users\ADMIN\Desktop\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.BaoCaoMonAn.resources
+C:\Users\ADMIN\Desktop\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.ChiTietHoaDon.resources
+C:\Users\ADMIN\Desktop\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.ChucVu.resources
+C:\Users\ADMIN\Desktop\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.DangNhapHeThong.resources
+C:\Users\ADMIN\Desktop\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.DoiMatKhau.resources
+C:\Users\ADMIN\Desktop\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.FormBaoCaoHoaDon.resources
+C:\Users\ADMIN\Desktop\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.FormBaoCaoNhanVien.resources
+C:\Users\ADMIN\Desktop\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.formbaocaotheodoanhthu.resources
+C:\Users\ADMIN\Desktop\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.FormBaoCaoTheoHTTT.resources
+C:\Users\ADMIN\Desktop\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.formchonhttt.resources
+C:\Users\ADMIN\Desktop\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.FormDangNhap.resources
+C:\Users\ADMIN\Desktop\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.HINHTHUCTHANHTOAN.resources
+C:\Users\ADMIN\Desktop\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.HoaDon.resources
+C:\Users\ADMIN\Desktop\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.KhachHang.resources
+C:\Users\ADMIN\Desktop\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.LoaiBanAn.resources
+C:\Users\ADMIN\Desktop\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.LoaiMonAn.resources
+C:\Users\ADMIN\Desktop\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.MonAn.resources
+C:\Users\ADMIN\Desktop\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.NhanVien.resources
+C:\Users\ADMIN\Desktop\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.ThanhToan.resources
+C:\Users\ADMIN\Desktop\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.TrangChu.resources
+C:\Users\ADMIN\Desktop\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.exe
+C:\Users\ADMIN\Desktop\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.pdb
+C:\Users\ADMIN\Desktop\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.DangNhap.resources
+C:\Users\ADMIN\Desktop\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.Form1.resources
+C:\Users\ADMIN\Desktop\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.TaoTaiKhoanKhachHang.resources
+C:\Users\ADMIN\Desktop\DoAn\DoAnWinForm\Nhom9_QuanLyNhaHang\Nhom9_QuanLyNhaHang\obj\Debug\Nhom9_QuanLyNhaHang.ThongTinChiTietHoaDon.resources
